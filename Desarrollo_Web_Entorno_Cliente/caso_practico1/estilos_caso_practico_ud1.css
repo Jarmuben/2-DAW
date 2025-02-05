@@ -1,0 +1,10 @@
+.box {
+  background-color: lightblue;
+  color: darkblue;
+  margin: 20px;
+  padding: 20px;
+}
+
+/*Este es el documento CSS que he creado para darle estilo a la página donde las tres cajas aparecen con un fondo de color
+lightblue, las letras de color darkblue y las medidas de margin (distancia de separación entre las cajas y padding 
+(distancia entre el texto y los bordes de la caja)*/
