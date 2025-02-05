@@ -1,0 +1,12 @@
+{
+  "name": "caso-practico-ud2",
+  "version": "1.0.0",
+  "description": "Caso práctico para aprender a saludar según la hora del día.",
+  "main": "caso_practico.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
